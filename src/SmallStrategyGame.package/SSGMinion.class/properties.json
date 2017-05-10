@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SSGObject",
+	"category" : "SmallStrategyGame",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lifePoints",
+		"strenght",
+		"isDefending"
+	],
+	"name" : "SSGMinion",
+	"type" : "normal"
+}

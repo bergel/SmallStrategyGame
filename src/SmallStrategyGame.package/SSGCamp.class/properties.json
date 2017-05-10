@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "SSGObject",
+	"category" : "SmallStrategyGame",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"minions",
+		"campName",
+		"game"
+	],
+	"name" : "SSGCamp",
+	"type" : "normal"
+}
