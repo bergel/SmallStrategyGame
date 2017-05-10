@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #configuration : 'SmallStrategyGame',
+      #repository : 'http://smalltalkhub.com/mc/abergel/SmallStrategyGame/main/',
+      #load : [ 'default' ],
+      #platforms : [ #pharo ],
+      #version: #development
+    }
+  ],
+
+  #testing : {
+   #packages : [ 'SmallStrategyGame' ]
+   }
+}
